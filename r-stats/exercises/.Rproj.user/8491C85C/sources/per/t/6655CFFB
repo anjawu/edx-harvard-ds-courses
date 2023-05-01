@@ -1,0 +1,27 @@
+{
+    "id": "6655CFFB",
+    "path": "~/Documents/Learning/EdX/r-stats/exercises/4.2.2_Mann-Whitney-WilcoxonTest.R",
+    "project_path": "4.2.2_Mann-Whitney-WilcoxonTest.R",
+    "type": "r_source",
+    "hash": "400247559",
+    "contents": "",
+    "dirty": false,
+    "created": 1676991485165.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "57,11",
+        "scrollLine": "41"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1676994265,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1676994265901,
+    "read_only": false,
+    "read_only_alternatives": []
+}
